@@ -1,0 +1,27 @@
+/* font-family: 'comic sans ms'; */
+
+
+.navbar-brand{
+font-size: 23px;
+font-weight: 500;
+float: left;
+font-family: 'comic sans ms';
+color: blue;
+}
+nav ul li a{
+     color:#132c33;
+     font-family:'Open Sans', sans-serif; ;
+     font-weight: normal;
+     padding: 0px 14px 0px 14px;
+     text-decoration: none;
+     text-transform: uppercase;
+     font-size: 13px;
+}
+.jumbotron {
+     padding-top: 2rem;
+     background-color: #eeeeee;
+}
+
+#projects {
+     background-color: #eeeeee;
+}
