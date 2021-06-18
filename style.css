@@ -18,10 +18,14 @@ nav ul li a{
      font-size: 13px;
 }
 .jumbotron {
-     padding-top: 2rem;
+     padding-top: 7rem;
      background-color: #eeeeee;
 }
 
 #projects {
      background-color: #eeeeee;
+}
+
+section {
+     padding-top: 5rem;
 }
